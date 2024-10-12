@@ -1,4 +1,4 @@
-# Preparation of the data from Human Resources Planning to an productivity Analysis 
+# Preparation of the data from Human Resources Planning to a productivity Analysis 
 
 This is part of a project focusing on preparing and analyzing data from monthly human resource planning data to evaluate employee productivity or occupancy based on time dedicated to daily tasks.
 
